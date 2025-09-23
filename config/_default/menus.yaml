@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 038775ba-165f-ecf5-cdf3-3f1026faab01
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 41f453d1-c4f1-6016-f68b-3c05ec63bbe3
+  name: Topics
+  pageRef: /pages/topics
+  weight: 20
+- identifier: 3fbe3172-87fa-67b8-9a61-0ce3cd50dbe0
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 30
+- identifier: 2c323155-8070-9d74-74b4-a74d3c75114f
+  name: Exams
+  pageRef: /pages/exams
+  weight: 40
