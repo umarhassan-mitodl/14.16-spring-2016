@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   grading, and readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -80,8 +82,8 @@ Readings
 
 The following textbooks are useful references for various parts of the course:
 
-{{% resource_link "a965f573-a12b-4d04-8e0a-911bb9ab8f01" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fudenberg, Drew, and Jean Tirole. _Game Theory_. MIT Press, 1991. ISBN: 9780262061414. \[Preview with {{% resource_link "a93ef519-5493-48e5-95d4-9b6a058f2fe9" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061414) Fudenberg, Drew, and Jean Tirole. _Game Theory_. MIT Press, 1991. ISBN: 9780262061414. \[Preview with [Google Books](http://books.google.com/books?id=pFPHKwXro3QC&pg=PAfrontcover)\]
 
-{{% resource_link "4770bbce-e76d-492e-ba82-1497e2dcaf82" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Osborne, Martin J., and Ariel Rubinstein. _A Course in Game Theory_. MIT Press, 1994. ISBN: 9780262650403. \[Preview with {{% resource_link "f8966ad8-123e-4d03-8885-94969b3bfd87" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262650403) Osborne, Martin J., and Ariel Rubinstein. _A Course in Game Theory_. MIT Press, 1994. ISBN: 9780262650403. \[Preview with [Google Books](http://books.google.com/books?id=5ntdaYX4LPkC&pg=PAfrontcover)\]
 
-Roth, Alvin E., and Marilda A. Oliveira Sotomayer. _Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis_. Cambridge University Press, 1992. ISBN: 9780521437882. \[Preview with {{% resource_link "e595a2c3-f7de-4049-9740-e1bb3d75d643" "Google Books" %}}\]
+Roth, Alvin E., and Marilda A. Oliveira Sotomayer. _Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis_. Cambridge University Press, 1992. ISBN: 9780521437882. \[Preview with [Google Books](http://books.google.com/books?id=JZNGHTZ6qX4C&pg=PAfrontcover)\]
