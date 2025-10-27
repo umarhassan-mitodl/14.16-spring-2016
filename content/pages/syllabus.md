@@ -80,8 +80,8 @@ Readings
 
 The following textbooks are useful references for various parts of the course:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061414) Fudenberg, Drew, and Jean Tirole. _Game Theory_. MIT Press, 1991. ISBN: 9780262061414. \[Preview with [Google Books](http://books.google.com/books?id=pFPHKwXro3QC&pg=PAfrontcover)\]
+{{% resource_link "e388d8f2-c18e-413c-a6fe-74ffad5d983a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fudenberg, Drew, and Jean Tirole. _Game Theory_. MIT Press, 1991. ISBN: 9780262061414. \[Preview with {{% resource_link "3dce5b21-46b3-410f-bf9b-718fe93111e4" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262650403) Osborne, Martin J., and Ariel Rubinstein. _A Course in Game Theory_. MIT Press, 1994. ISBN: 9780262650403. \[Preview with [Google Books](http://books.google.com/books?id=5ntdaYX4LPkC&pg=PAfrontcover)\]
+{{% resource_link "ee85c4de-a13e-4c9d-9032-24dc81b9f5ac" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Osborne, Martin J., and Ariel Rubinstein. _A Course in Game Theory_. MIT Press, 1994. ISBN: 9780262650403. \[Preview with {{% resource_link "8023c9f8-7ac5-416f-9ac8-a31ad447d66d" "Google Books" %}}\]
 
-Roth, Alvin E., and Marilda A. Oliveira Sotomayer. _Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis_. Cambridge University Press, 1992. ISBN: 9780521437882. \[Preview with [Google Books](http://books.google.com/books?id=JZNGHTZ6qX4C&pg=PAfrontcover)\]
+Roth, Alvin E., and Marilda A. Oliveira Sotomayer. _Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis_. Cambridge University Press, 1992. ISBN: 9780521437882. \[Preview with {{% resource_link "293ce4d5-b3d5-4657-b67d-be1466afa195" "Google Books" %}}\]
